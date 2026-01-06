@@ -1,0 +1,8 @@
+{
+  "name": "Copy of VinaHost - SEO Content Gap Architect",
+  "description": "Ứng dụng phân tích khoảng trống nội dung SEO chuyên sâu, đánh giá EEAT và SGE Readiness so với đối thủ cạnh tranh.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
